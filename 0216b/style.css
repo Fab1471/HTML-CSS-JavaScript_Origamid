@@ -1,0 +1,11 @@
+img {
+    max-width: 100%;
+    width: 600px;
+    display: block;
+}
+
+body {
+    background: lightblue;
+}
+
+/* unsplash para imagens gratuitas e squoosh para otimizar imagens */

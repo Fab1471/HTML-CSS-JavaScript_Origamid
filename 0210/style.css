@@ -1,0 +1,14 @@
+h1 {
+    background: #000000;
+    color: #8844ee;
+    /* color: rgb e ou rgba (o "a" é de transparência da cor) */
+    /* as cores vão passar parâmetros qnd em rgb ou rgba pq são funções. . */
+    /* a cor mais baixa é o preto e a mais alta é o branco (racism, kk) */
+    /* o padrão do "a" é: quanto mais perto do 0, mais transparente */
+}
+
+a {
+    background: seagreen;
+    color: white;
+    font-size: 21px;
+}

@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: white;
+    background: darkblue;
+    display: inline-block;
+}
+
+p {
+    background: lightblue;
+}
+
+.px {
+    font-size: 24px;
+    padding: 16px 32px;
+}
+
+.rem {
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+}
+
+/* o padrão do rem respeita a escolha do usuário mesmo sendo trabalhado em pixel */
+/* porém, se for alterado o font-size do html ele muda os rem de acordo */
+
+
+/* existe o "em" mas, não é recomendado */

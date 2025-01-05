@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}

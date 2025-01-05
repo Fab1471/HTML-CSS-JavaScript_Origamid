@@ -1,0 +1,27 @@
+.div-pai {
+    text-align: center;
+}
+
+.sec-div {
+    background-color: #111;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+.p_white {
+    color: white;
+}
+
+.p_yellow {
+    color: #febe01;
+}
+
+.button_class {
+    color: #332200;
+    background-color: #febe01;
+}
+
+#html {
+    font-family: Arial;
+}

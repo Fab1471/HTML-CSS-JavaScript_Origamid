@@ -1,0 +1,13 @@
+p {
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: oblique;
+    line-height: 1.2;
+    text-decoration: dotted;
+    text-transform: lowercase;
+    text-indent: 5rem;
+    text-align: left;
+    text-shadow: 25px 5px 10px gray;
+    letter-spacing: 0.05rem;
+}
