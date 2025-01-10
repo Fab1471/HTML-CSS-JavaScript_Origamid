@@ -1,6 +1,6 @@
 body {
-    margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
     color: #141414;
 }
 
@@ -19,6 +19,7 @@ ul {
 
 img {
     max-width: 100%;
+    height: auto;
     display: block;
 }
 
