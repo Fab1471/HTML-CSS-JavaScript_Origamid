@@ -1,1 +1,10 @@
 comandos bash = https://ss64.com
+
+
+rm = remove arquivos
+
+rm script2.js
+
+rm -r = remove pastas
+
+rm - r teste
