@@ -1,0 +1,25 @@
+body {
+    font-size: 2rem;
+}
+
+#produtos {
+    color: lightgreen;
+}
+
+#intro #servicos {
+    color: aqua; /* 2 classes de id concatenadas sobressaem */
+}
+
+#servicos {
+    color: red; /* sobressai sobre 2 de classe, 1 de classe */
+}
+
+.titulo.teste {
+    color: blue; /* 2 seletores prevalecem sobre apenas 1 */
+}
+
+.titulo {
+    color: tomato; /* 1 seletor apenas de classe */
+    padding: 10px;
+}
+
