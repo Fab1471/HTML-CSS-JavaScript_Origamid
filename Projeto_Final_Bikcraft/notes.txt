@@ -1,0 +1,11 @@
+/*
+.introducao p, 
+a {
+    grid-column: 1;
+}
+
+.introducao img {
+    grid-column: 2;
+    grid-row: 1/3;
+}
+*/
