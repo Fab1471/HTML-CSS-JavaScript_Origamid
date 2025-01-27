@@ -9,3 +9,6 @@ a {
     grid-row: 1/3;
 }
 */
+
+
+tipografia e cor direto nos utilitários e no html. .
